@@ -22,6 +22,9 @@ Solve and submit the following files:
 
 03_Numpy_Exercises.ipynb,
 
+Submission Link for assignment-1 : https://forms.gle/2Jg43i78YJ5mWxz37
+
+
 04_Pandas_Exercise.ipynb.
 
 Submission deadline: 19th December 2025, 11:59 PM.
